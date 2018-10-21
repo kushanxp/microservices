@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.in28minutes.springboot.microservice.example.forex;
+
+/**
+ * @author KJAYATHILAKE
+ *
+ */
+public interface ExchangeValueRepository {
+
+}

@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.in28minutes.springboot.microservice.example.currencyconversion;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+/**
+ * @author KJAYATHILAKE
+ *
+ */
+@FeignClient(name="forex-service" url="currency-exchange/from/{from}/to/{to}")
+public interface CurrencyExchangeServiceProxy {
+	
+
+}

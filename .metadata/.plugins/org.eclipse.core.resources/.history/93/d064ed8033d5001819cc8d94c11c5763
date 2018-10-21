@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.in28minutes.springboot.microservice.example.currencyconversion;
+
+/**
+ * @author KJAYATHILAKE
+ *
+ */
+public interface CurrencyExchangeServiceProxy {
+
+}

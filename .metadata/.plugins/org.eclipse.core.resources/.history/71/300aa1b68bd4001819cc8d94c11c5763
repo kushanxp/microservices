@@ -1,0 +1,29 @@
+package com.example.demo;
+
+import java.util.Collection;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class GoodItemApiAdapterRestController {
+	
+	private final ItemClient itemClient;
+
+	public GoodItemApiAdapterRestController(ItemClient itemClient) {
+		this.itemClient = itemClient;
+	}
+	
+	private boolean isGreat(Item item) {
+		return !item.getName().equals("Nike") &&
+                !item.getName().equals("Adidas") &&
+                !item.getName().equals("Reebok");
+	}
+	public Collection<Item> goodItems() {
+		return itemClient.readItems().getContent().stream().filter(this::isGreat).collect()
+		
+	}
+	
+	
+	
+
+}
