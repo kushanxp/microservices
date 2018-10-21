@@ -2710,3 +2710,311 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpu
 2018-10-21 18:52:23,825 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-10-21 18:52:23,827 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-21 18:52:23,828 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 19:14:57,348 [Worker-110: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 19:15:03,289 [Worker-125: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 19:15:04,515 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:15:04,519 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:15:04,519 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:15:04,521 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:15:04,521 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 19:15:19,957 [Worker-110: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 19:15:47,568 [Worker-122: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 19:15:48,675 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:15:48,679 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:15:48,679 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:15:48,681 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:15:48,681 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 19:15:52,999 [Worker-124: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 19:39:02,225 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-test:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-test\pom.xml.
+2018-10-21 19:39:05,655 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2018-10-21 19:39:21,246 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2018-10-21 19:39:22,139 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-test/src/main/java
+2018-10-21 19:39:22,140 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-test/src/main/resources
+2018-10-21 19:39:22,147 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-test/src/main/resources
+2018-10-21 19:39:22,156 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-test/src/test/java
+2018-10-21 19:39:24,052 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 24 sec
+2018-10-21 19:39:24,053 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-21 19:39:24,461 [Worker-128: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
+2018-10-21 19:39:24,800 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-test:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-test\pom.xml.
+2018-10-21 19:39:26,143 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-test/src/main/java
+2018-10-21 19:39:26,143 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-test/src/main/resources
+2018-10-21 19:39:26,146 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-test/src/main/resources
+2018-10-21 19:39:26,154 [Worker-105: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-test/src/test/java
+2018-10-21 19:39:26,500 [Worker-105: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-10-21 19:39:28,674 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:39:28,675 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 19:39:28,717 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:39:28,721 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:39:28,721 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-test\src\test\resources
+2018-10-21 19:39:31,873 [Worker-128: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
+2018-10-21 19:39:31,914 [Worker-128: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:16.0.1
+2018-10-21 19:39:32,382 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:39:32,384 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:39:32,384 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:39:32,386 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:39:32,386 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-test\src\test\resources
+2018-10-21 19:39:33,272 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:16.0.1
+2018-10-21 19:39:33,274 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:16.0.1
+2018-10-21 19:39:33,276 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:16.0.1
+2018-10-21 19:39:33,625 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:39:33,626 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:39:33,626 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:39:33,627 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:39:33,627 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-test\src\test\resources
+2018-10-21 19:40:10,633 [Worker-128: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 19:40:11,426 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:40:11,426 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:40:11,427 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:40:11,428 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:40:11,428 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 19:40:14,176 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:40:14,178 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 19:40:14,182 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:40:14,185 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:40:14,186 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 19:50:15,667 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:50:15,669 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 19:50:15,673 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 19:50:15,674 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 19:50:15,675 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 20:05:10,605 [Worker-136: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.eureka.naming.server:spring-boot-microservice-eureka-naming-server:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-eureka-naming-server\pom.xml.
+2018-10-21 20:05:12,896 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-eureka-naming-server/src/main/java
+2018-10-21 20:05:12,896 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-eureka-naming-server/src/main/resources
+2018-10-21 20:05:12,913 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-eureka-naming-server/src/main/resources
+2018-10-21 20:05:12,927 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-eureka-naming-server/src/test/java
+2018-10-21 20:05:14,888 [Worker-136: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-10-21 20:05:14,889 [Worker-136: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-21 20:05:15,247 [Worker-136: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.eureka.naming.server:spring-boot-microservice-eureka-naming-server:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-eureka-naming-server\pom.xml.
+2018-10-21 20:05:16,509 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-eureka-naming-server/src/main/java
+2018-10-21 20:05:16,510 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-eureka-naming-server/src/main/resources
+2018-10-21 20:05:16,512 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-eureka-naming-server/src/main/resources
+2018-10-21 20:05:16,517 [Worker-136: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-eureka-naming-server/src/test/java
+2018-10-21 20:05:17,188 [Worker-136: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-10-21 20:05:18,875 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:05:18,876 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 20:05:18,877 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:05:18,879 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:05:18,879 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-eureka-naming-server\src\test\resources
+2018-10-21 20:16:21,825 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:16:21,826 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 20:16:21,829 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:16:21,833 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:16:21,833 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-eureka-naming-server\src\test\resources
+2018-10-21 20:18:06,283 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:18:06,283 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 20:18:06,285 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:18:06,286 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:18:06,286 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-eureka-naming-server\src\test\resources
+2018-10-21 20:20:16,898 [Worker-141: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.currencyconversion:spring-boot-microservice-currency-conversion:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\pom.xml.
+2018-10-21 20:20:18,225 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:20:18,226 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:20:18,226 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:20:18,228 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:20:18,228 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 20:20:20,903 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:20:20,905 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 20:20:20,909 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:20:20,911 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:20:20,912 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 20:20:45,088 [Worker-131: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:22:06,506 [Worker-131: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:22:06,924 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:22:06,924 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:22:06,925 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:22:06,926 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:22:06,927 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\src\test\resources
+2018-10-21 20:22:25,349 [Worker-131: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:25:26,702 [Worker-142: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:28:23,162 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:28:23,162 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 20:28:23,164 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:28:23,166 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:28:23,166 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 20:34:03,075 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-21 20:34:03,477 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:34:03,989 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-forex-service/src/main/java
+2018-10-21 20:34:03,990 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-forex-service/src/main/resources
+2018-10-21 20:34:03,990 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-microservice-forex-service/src/main/resources
+2018-10-21 20:34:03,991 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-microservice-forex-service/src/test/java
+2018-10-21 20:34:04,515 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-10-21 20:34:15,307 [Worker-142: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:37:44,133 [Worker-143: Loading pom.xml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client//spring-cloud-starter-netflix-eureka-client-.pom
+2018-10-21 20:37:44,135 [Worker-143: Loading pom.xml] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar: is missing, no dependency information available
+2018-10-21 20:43:18,591 [Worker-143: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/${spring-cloud.version}/spring-cloud-dependencies-${spring-cloud.version}.pom
+2018-10-21 20:43:18,848 [Worker-143: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:43:20,265 [Worker-133: Loading pom.xml] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar: is missing, no dependency information available
+2018-10-21 20:44:40,824 [Worker-144: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:44:41,568 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:44:41,569 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:44:41,569 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:44:41,571 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:44:41,571 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\src\test\resources
+2018-10-21 20:44:57,982 [Worker-110: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:44:58,408 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:44:58,419 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:44:58,421 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:44:58,423 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:44:58,423 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\src\test\resources
+2018-10-21 20:47:43,842 [Worker-143: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:47:45,704 [Worker-110: Loading pom.xml] ERROR o.e.m.c.embedder.MavenModelManager - Project read error
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies at org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:293) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:230) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:187) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:1) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager$1.call(MavenProjectManager.java:124) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:122) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:191) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:695) [org.eclipse.m2e.editor_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:222) [org.eclipse.m2e.editor_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.resolution.VersionRangeResolutionException: Failed to resolve version range for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE): Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:157) ~[maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.cachedResolveRangeResult(DefaultDependencyCollector.java:619) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:394) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	... 15 common frames omitted
+Caused by: org.eclipse.aether.version.InvalidVersionSpecificationException: Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.eclipse.aether.util.version.GenericVersionRange.<init>(GenericVersionRange.java:87) ~[maven-resolver-util-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionRange(GenericVersionScheme.java:76) ~[maven-resolver-util-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionConstraint(GenericVersionScheme.java:102) ~[maven-resolver-util-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:152) ~[maven-resolver-provider-3.5.3.jar:3.5.3]
+	... 20 common frames omitted
+2018-10-21 20:47:45,795 [Worker-110: Loading pom.xml] ERROR o.e.m.editor.pom.DependencyTreePage - Project read error
+org.eclipse.core.runtime.CoreException: Project read error
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:234) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:187) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager$1.call(MavenProjectManager.java:124) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:122) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:191) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:695) ~[na:na]
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:222) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies at org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:293) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:230) ~[na:na]
+	... 13 common frames omitted
+Caused by: org.eclipse.aether.resolution.VersionRangeResolutionException: Failed to resolve version range for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE): Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:157) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.cachedResolveRangeResult(DefaultDependencyCollector.java:619) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:394) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) ~[na:na]
+	... 15 common frames omitted
+Caused by: org.eclipse.aether.version.InvalidVersionSpecificationException: Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.eclipse.aether.util.version.GenericVersionRange.<init>(GenericVersionRange.java:87) ~[na:na]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionRange(GenericVersionScheme.java:76) ~[na:na]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionConstraint(GenericVersionScheme.java:102) ~[na:na]
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:152) ~[na:na]
+	... 20 common frames omitted
+2018-10-21 20:50:33,321 [Worker-128: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:50:34,967 [Worker-110: Loading pom.xml] ERROR o.e.m.c.embedder.MavenModelManager - Project read error
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies at org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:293) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:230) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:187) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:1) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager$1.call(MavenProjectManager.java:124) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:122) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:191) [org.eclipse.m2e.core_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:695) [org.eclipse.m2e.editor_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:222) [org.eclipse.m2e.editor_1.9.1.20180912-1601.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.resolution.VersionRangeResolutionException: Failed to resolve version range for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE): Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:157) ~[maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.cachedResolveRangeResult(DefaultDependencyCollector.java:619) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:394) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	... 15 common frames omitted
+Caused by: org.eclipse.aether.version.InvalidVersionSpecificationException: Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.eclipse.aether.util.version.GenericVersionRange.<init>(GenericVersionRange.java:87) ~[maven-resolver-util-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionRange(GenericVersionScheme.java:76) ~[maven-resolver-util-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionConstraint(GenericVersionScheme.java:102) ~[maven-resolver-util-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:152) ~[maven-resolver-provider-3.5.3.jar:3.5.3]
+	... 20 common frames omitted
+2018-10-21 20:50:34,971 [Worker-110: Loading pom.xml] ERROR o.e.m.editor.pom.DependencyTreePage - Project read error
+org.eclipse.core.runtime.CoreException: Project read error
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:234) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:187) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager$1.call(MavenModelManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager$1.call(MavenProjectManager.java:124) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:122) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:191) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:695) ~[na:na]
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:222) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies at org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:293) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) ~[na:na]
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:230) ~[na:na]
+	... 13 common frames omitted
+Caused by: org.eclipse.aether.resolution.VersionRangeResolutionException: Failed to resolve version range for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:(managed:2.0.1.RELEASE): Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:157) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.cachedResolveRangeResult(DefaultDependencyCollector.java:619) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:394) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) ~[na:na]
+	... 15 common frames omitted
+Caused by: org.eclipse.aether.version.InvalidVersionSpecificationException: Invalid version range (managed:2.0.1.RELEASE), single version must be surrounded by []
+	at org.eclipse.aether.util.version.GenericVersionRange.<init>(GenericVersionRange.java:87) ~[na:na]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionRange(GenericVersionScheme.java:76) ~[na:na]
+	at org.eclipse.aether.util.version.GenericVersionScheme.parseVersionConstraint(GenericVersionScheme.java:102) ~[na:na]
+	at org.apache.maven.repository.internal.DefaultVersionRangeResolver.resolveVersionRange(DefaultVersionRangeResolver.java:152) ~[na:na]
+	... 20 common frames omitted
+2018-10-21 20:51:01,008 [Worker-143: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 20:51:01,500 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:51:01,500 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:51:01,501 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 20:51:01,503 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 20:51:01,503 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\src\test\resources
+2018-10-21 21:42:59,637 [Worker-145: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 21:43:00,940 [Worker-133: Loading pom.xml] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar: is missing, no dependency information available
+2018-10-21 23:19:55,013 [Worker-128: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes.springboot.microservice.example.forex:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\pom.xml.
+2018-10-21 23:19:56,119 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:19:56,119 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 23:19:56,120 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 23:19:56,121 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:19:56,121 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\src\test\resources
+2018-10-21 23:19:57,495 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:19:57,498 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 23:19:57,502 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 23:19:57,592 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:19:57,593 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-forex-service\src\test\resources
+2018-10-21 23:23:39,349 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:23:39,350 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 23:23:39,352 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 23:23:39,354 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:23:39,354 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Software\eclipse_new\eclipse-workspace\spring-boot-microservice-currency-conversion\src\test\resources
+2018-10-21 23:23:45,321 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 23:23:45,321 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 23:23:45,324 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
